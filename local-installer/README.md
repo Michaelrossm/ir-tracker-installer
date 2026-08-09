@@ -2,7 +2,7 @@
 
 ## Deutsch
 
-Der Installer wird als eigenständiges Open-Source-Projekt veröffentlicht. Windows und
+Der Installer wird als eigenständiges, quelloffenes nichtkommerzielles Projekt veröffentlicht. Windows und
 Linux verwenden denselben erzwungenen Ablauf:
 
 1. ESP über USB erkennen und Sicherheitsstatus prüfen.
@@ -88,7 +88,7 @@ beziehungsweise unter `~/.local/share/IRTrackerInstaller/backups`.
 
 ## English
 
-The installer is published as a standalone open-source project. Windows and Linux
+The installer is published as a standalone source-available noncommercial project. Windows and Linux
 enforce the same workflow:
 
 1. Detect the ESP over USB and inspect its security state.

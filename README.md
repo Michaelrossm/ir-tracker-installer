@@ -30,6 +30,37 @@ Keine Installation erforderlich. Programm starten; die Browseroberfläche lausch
 auf `127.0.0.1`. Für einen gefahrlosen Test **Simulation starten / Start simulation**
 wählen.
 
+## Standardzugang der Custom-Firmware / Custom firmware default access
+
+Nach einer frischen Installation startet die Custom-Firmware das Setup-WLAN
+`IR-Tracker-Setup-XXXX`. Die vier Zeichen `XXXX` werden direkt aus dem sichtbaren
+WLAN-Namen übernommen:
+
+| Zugang | Benutzername | Standardpasswort |
+| --- | --- | --- |
+| Setup-WLAN `IR-Tracker-Setup-XXXX` | kein Benutzername | `IRTracker-XXXX` |
+| Weboberfläche | `admin` | `IRTracker-XXXX` |
+
+Beispiel: Bei `IR-Tracker-Setup-F2A0` lautet das Passwort `IRTracker-F2A0`.
+Groß-/Kleinschreibung und Bindestrich müssen exakt stimmen. Wurde das Admin-Passwort
+bereits geändert, gilt das selbst gewählte Passwort. Das Standardpasswort nach der
+Einrichtung unter **Einstellungen** ändern und nicht in Protokollen oder öffentlichen
+Fehlermeldungen veröffentlichen.
+
+After a fresh installation, the custom firmware starts the setup network
+`IR-Tracker-Setup-XXXX`. Copy the four `XXXX` characters directly from the visible
+Wi-Fi name:
+
+| Access | User name | Default password |
+| --- | --- | --- |
+| Setup Wi-Fi `IR-Tracker-Setup-XXXX` | no user name | `IRTracker-XXXX` |
+| Web interface | `admin` | `IRTracker-XXXX` |
+
+Example: For `IR-Tracker-Setup-F2A0`, the password is `IRTracker-F2A0`.
+Capitalization and the hyphen must match exactly. If the administrator password has
+already been changed, use the chosen password. Change the default under **Settings**
+after setup and never publish it in logs or public error reports.
+
 ## Safety workflow / Sicherheitsablauf
 
 1. Detect the chip and security state / Chip und Sicherheitsstatus erkennen.

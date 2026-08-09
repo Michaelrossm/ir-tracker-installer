@@ -1,0 +1,2 @@
+PyInstaller>=6.16,<7
+esptool>=5.0,<6

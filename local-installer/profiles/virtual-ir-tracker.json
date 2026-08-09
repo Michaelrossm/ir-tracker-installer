@@ -1,0 +1,20 @@
+{
+  "profile_id": "virtual-ir-tracker",
+  "name": "Virtueller IR Tracker",
+  "chips": ["ESP32-C3"],
+  "flash_size": 4194304,
+  "partition_table_sha256": null,
+  "boot_region_sha256": null,
+  "ota_0_sha256": [],
+  "firmware": "release/ir-tracker-custom-1.0.2-beta.1-usb.bin",
+  "firmware_sha256": "4B92F400F301EEA2CF324CECF2F6ADE653649F94A9DECF52CA8A19DB8E3ABA99",
+  "partitions": "release/partitions-1.0.2-beta.1.bin",
+  "partitions_sha256": "B003446395C188B0128FA071C7124FB1A7179B6E6053FE193B3532B3D8C9FBBE",
+  "writes": [
+    {"offset": "0x8000", "artifact": "partitions"},
+    {"offset": "0x10000", "artifact": "firmware"},
+    {"offset": "0x160000", "artifact": "firmware"}
+  ],
+  "gpio": {"rx": 3, "tx": 6, "led": 5, "baud": 9600},
+  "virtual_only": true
+}

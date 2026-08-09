@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv*/
+build/
+build-*/
+dist/
+dist-*/
+artifacts/
+device-backups/
+*.tmp
+.idea/
+.vscode/
+signing/private/
+original bin/

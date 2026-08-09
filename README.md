@@ -68,10 +68,13 @@ Detailed usage: [local-installer/README.md](local-installer/README.md).
 ## License and independence / Lizenz und Unabhängigkeit
 
 Copyright © 2026 Michael Roßmann. Licensed under PolyForm Noncommercial 1.0.0; commercial
-use is not permitted by this license. This independent community project is not
-affiliated with, endorsed by, or supported by Solakon or any meter manufacturer.
+use is not permitted by this license. See the [license](LICENSE.md), [authorship notice](AUTHORS.md),
+[rights review](RIGHTS_REVIEW.md), and [trademark notice](TRADEMARKS.md). This independent
+community project is not affiliated with, endorsed by, or supported by Solakon or any
+meter manufacturer.
 
 Copyright © 2026 Michael Roßmann. Lizenziert unter PolyForm Noncommercial 1.0.0;
-gewerbliche Nutzung ist durch diese Lizenz nicht erlaubt. Dieses unabhängige
-Community-Projekt ist weder mit Solakon noch mit einem Zählerhersteller verbunden oder
-von diesen unterstützt.
+gewerbliche Nutzung ist durch diese Lizenz nicht erlaubt. Siehe [Lizenz](LICENSE.md),
+[Urheberhinweis](AUTHORS.md), [Rechteprüfung](RIGHTS_REVIEW.md) und
+[Markenhinweis](TRADEMARKS.md). Dieses unabhängige Community-Projekt ist weder mit
+Solakon noch mit einem Zählerhersteller verbunden oder von diesen unterstützt.

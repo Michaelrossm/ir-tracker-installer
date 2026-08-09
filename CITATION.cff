@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as follows. / Bitte dieses Projekt wie folgt zitieren."
+title: "IR Tracker Installer"
+type: software
+authors:
+  - family-names: "Roßmann"
+    given-names: "Michael"
+version: "1.0.1-beta.1"
+date-released: 2026-08-09
+repository-code: "https://github.com/Michaelrossm/ir-tracker-installer"
+url: "https://github.com/Michaelrossm/ir-tracker-installer"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"

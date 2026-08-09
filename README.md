@@ -17,7 +17,7 @@ sind auf Deutsch und Englisch verfügbar.
 
 ## Download / Herunterladen
 
-Open the latest [GitHub release](https://github.com/Michaelrossm/ir-tracker-installer/releases/latest):
+Open the current [GitHub beta release](https://github.com/Michaelrossm/ir-tracker-installer/releases/tag/v1.0.1-beta.1):
 
 - Windows: `IR-Tracker-Installer-Windows-v1.0.1-beta.1.exe`
 - Linux x86_64: `IR-Tracker-Installer-Linux-v1.0.1-beta.1`
